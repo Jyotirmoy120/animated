@@ -1,1 +1,1 @@
-# animated
+# Jyotirmoy-animated-portfolio
